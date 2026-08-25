@@ -1,0 +1,166 @@
+{
+  "5": [
+    {
+      "unitId": "u1",
+      "unitName": "Unit 1  Hello, friends!（自己しょうかい・好きな教科）",
+      "sentences": [
+        { "id": "5-1-1", "text": "Hello. My name is Yuki.", "meaning": "こんにちは。わたしの名前はユキです。" },
+        { "id": "5-1-2", "text": "I like social studies.", "meaning": "わたしは社会科が好きです。" },
+        { "id": "5-1-3", "text": "I'm good at drawing.", "meaning": "わたしは絵をかくのが得意です。" },
+        { "id": "5-1-4", "text": "Nice to meet you, everyone.", "meaning": "みなさん、はじめまして。" }
+      ]
+    },
+    {
+      "unitId": "u2",
+      "unitName": "Unit 2  Happy birthday!（誕生日・ほしいもの）",
+      "sentences": [
+        { "id": "5-2-1", "text": "My birthday is in September.", "meaning": "わたしの誕生日は9月です。" },
+        { "id": "5-2-2", "text": "I want a new soccer ball.", "meaning": "わたしは新しいサッカーボールがほしいです。" },
+        { "id": "5-2-3", "text": "What do you want for your birthday?", "meaning": "あなたは誕生日に何がほしいですか。" },
+        { "id": "5-2-4", "text": "Happy birthday, Emma!", "meaning": "エマ、誕生日おめでとう！" }
+      ]
+    },
+    {
+      "unitId": "u3",
+      "unitName": "Unit 3  Can you play dodgeball?（できること・スポーツ）",
+      "sentences": [
+        { "id": "5-3-1", "text": "Can you play dodgeball?", "meaning": "あなたはドッジボールができますか。" },
+        { "id": "5-3-2", "text": "Yes, I can. I play it every week.", "meaning": "はい、できます。毎週やっています。" },
+        { "id": "5-3-3", "text": "I can't swim very well.", "meaning": "わたしはあまり上手に泳げません。" },
+        { "id": "5-3-4", "text": "Can you run fast?", "meaning": "あなたは速く走れますか。" }
+      ]
+    },
+    {
+      "unitId": "u4",
+      "unitName": "Unit 4  Who is this?（身近な人・家族のしょうかい）",
+      "sentences": [
+        { "id": "5-4-1", "text": "Who is this?", "meaning": "こちらはだれですか。" },
+        { "id": "5-4-2", "text": "This is my sister.", "meaning": "こちらはわたしの姉です。" },
+        { "id": "5-4-3", "text": "She is kind and funny.", "meaning": "彼女は親切でおもしろいです。" },
+        { "id": "5-4-4", "text": "He can cook well.", "meaning": "彼は料理が上手です。" }
+      ]
+    },
+    {
+      "unitId": "u5",
+      "unitName": "Unit 5  Let's go to the zoo.（身の回りの場所・道案内）",
+      "sentences": [
+        { "id": "5-5-1", "text": "Let's go to the zoo.", "meaning": "動物園に行きましょう。" },
+        { "id": "5-5-2", "text": "Go straight and turn right.", "meaning": "まっすぐ行って、右に曲がってください。" },
+        { "id": "5-5-3", "text": "Where is the library?", "meaning": "図書館はどこにありますか。" },
+        { "id": "5-5-4", "text": "It's near the park.", "meaning": "それは公園の近くにあります。" }
+      ]
+    },
+    {
+      "unitId": "u6",
+      "unitName": "Unit 6  At a restaurant.（食べ物・注文のしかた）",
+      "sentences": [
+        { "id": "5-6-1", "text": "What would you like?", "meaning": "何になさいますか。" },
+        { "id": "5-6-2", "text": "I'd like a hamburger, please.", "meaning": "ハンバーガーをお願いします。" },
+        { "id": "5-6-3", "text": "How much is it?", "meaning": "それはいくらですか。" },
+        { "id": "5-6-4", "text": "It's delicious.", "meaning": "それはおいしいです。" }
+      ]
+    },
+    {
+      "unitId": "u7",
+      "unitName": "Unit 7  Welcome to Japan!（日本や都道府県のしょうかい）",
+      "sentences": [
+        { "id": "5-7-1", "text": "Welcome to Japan!", "meaning": "日本へようこそ！" },
+        { "id": "5-7-2", "text": "You can eat great sushi in Osaka.", "meaning": "大阪ではおいしいすしが食べられます。" },
+        { "id": "5-7-3", "text": "We have a famous castle in our town.", "meaning": "わたしたちの町には有名なお城があります。" },
+        { "id": "5-7-4", "text": "Please visit Hokkaido in winter.", "meaning": "冬に北海道を訪れてください。" }
+      ]
+    },
+    {
+      "unitId": "u8",
+      "unitName": "Unit 8  Who is your hero?（あこがれの人・その理由）",
+      "sentences": [
+        { "id": "5-8-1", "text": "Who is your hero?", "meaning": "あなたのヒーローはだれですか。" },
+        { "id": "5-8-2", "text": "My hero is my grandfather.", "meaning": "わたしのヒーローは祖父です。" },
+        { "id": "5-8-3", "text": "He is always kind to everyone.", "meaning": "彼はいつもみんなに親切です。" },
+        { "id": "5-8-4", "text": "I respect her very much.", "meaning": "わたしは彼女をとても尊敬しています。" }
+      ]
+    }
+  ],
+  "6": [
+    {
+      "unitId": "u1",
+      "unitName": "Unit 1  This is me!（自己しょうかい・好きなこと・たから物）",
+      "sentences": [
+        { "id": "6-1-1", "text": "This is me.", "meaning": "これがわたしです。" },
+        { "id": "6-1-2", "text": "My treasure is this old watch.", "meaning": "わたしのたから物はこの古い時計です。" },
+        { "id": "6-1-3", "text": "I enjoy reading books.", "meaning": "わたしは読書を楽しみます。" },
+        { "id": "6-1-4", "text": "I am proud of my drawing.", "meaning": "わたしは自分の絵をほこりに思っています。" }
+      ]
+    },
+    {
+      "unitId": "u2",
+      "unitName": "Unit 2  My Daily Schedule（日課・一日の過ごし方）",
+      "sentences": [
+        { "id": "6-2-1", "text": "I usually get up at six thirty.", "meaning": "わたしはたいてい6時30分に起きます。" },
+        { "id": "6-2-2", "text": "I do my homework after dinner.", "meaning": "わたしは夕食のあとに宿題をします。" },
+        { "id": "6-2-3", "text": "What time do you take a bath?", "meaning": "あなたは何時にお風呂に入りますか。" },
+        { "id": "6-2-4", "text": "I always walk my dog in the morning.", "meaning": "わたしは毎朝いつも犬の散歩をします。" }
+      ]
+    },
+    {
+      "unitId": "u3",
+      "unitName": "Unit 3  My Weekend（週末の出来事・過去の行動）",
+      "sentences": [
+        { "id": "6-3-1", "text": "I played tennis last weekend.", "meaning": "わたしはこの前の週末にテニスをしました。" },
+        { "id": "6-3-2", "text": "I watched a movie with my brother.", "meaning": "わたしは弟と映画を見ました。" },
+        { "id": "6-3-3", "text": "Did you have a good weekend?", "meaning": "よい週末をすごしましたか。" },
+        { "id": "6-3-4", "text": "I visited my grandmother on Sunday.", "meaning": "わたしは日曜日に祖母をたずねました。" }
+      ]
+    },
+    {
+      "unitId": "u4",
+      "unitName": "Unit 4  Let's see the world.（行ってみたい国・世界のこと）",
+      "sentences": [
+        { "id": "6-4-1", "text": "I want to visit France someday.", "meaning": "わたしはいつかフランスを訪れたいです。" },
+        { "id": "6-4-2", "text": "You can see the Great Wall in China.", "meaning": "中国では万里の長城が見られます。" },
+        { "id": "6-4-3", "text": "Let's see the world together.", "meaning": "いっしょに世界を見てみましょう。" },
+        { "id": "6-4-4", "text": "What country do you want to visit?", "meaning": "あなたはどの国を訪れたいですか。" }
+      ]
+    },
+    {
+      "unitId": "u5",
+      "unitName": "Unit 5  Where is it from?（原産国・身の回りのものの由来）",
+      "sentences": [
+        { "id": "6-5-1", "text": "Where is this from?", "meaning": "これはどこの産ですか。" },
+        { "id": "6-5-2", "text": "This coffee is from Brazil.", "meaning": "このコーヒーはブラジル産です。" },
+        { "id": "6-5-3", "text": "My bag is made in Italy.", "meaning": "わたしのかばんはイタリア製です。" },
+        { "id": "6-5-4", "text": "These shoes are from Vietnam.", "meaning": "この靴はベトナム産です。" }
+      ]
+    },
+    {
+      "unitId": "u6",
+      "unitName": "Unit 6  Save the animals.（絶滅危惧種・地球のためにできること）",
+      "sentences": [
+        { "id": "6-6-1", "text": "Pandas are an endangered species.", "meaning": "パンダは絶滅危惧種です。" },
+        { "id": "6-6-2", "text": "We should save the animals.", "meaning": "わたしたちは動物を守るべきです。" },
+        { "id": "6-6-3", "text": "Please don't waste water.", "meaning": "水をむだにしないでください。" },
+        { "id": "6-6-4", "text": "We can recycle plastic bottles.", "meaning": "わたしたちはペットボトルをリサイクルできます。" }
+      ]
+    },
+    {
+      "unitId": "u7",
+      "unitName": "Unit 7  My Best Memory（小学校いちばんの思い出）",
+      "sentences": [
+        { "id": "6-7-1", "text": "My best memory is the school trip.", "meaning": "わたしのいちばんの思い出は修学旅行です。" },
+        { "id": "6-7-2", "text": "We saw a beautiful sunset.", "meaning": "わたしたちは美しい夕日を見ました。" },
+        { "id": "6-7-3", "text": "It was the best day of my life.", "meaning": "それはわたしの人生でいちばんの日でした。" },
+        { "id": "6-7-4", "text": "I will never forget it.", "meaning": "わたしはそれを決して忘れません。" }
+      ]
+    },
+    {
+      "unitId": "u8",
+      "unitName": "Unit 8  My Future, My Dream.（将来の夢・中学校でやりたいこと）",
+      "sentences": [
+        { "id": "6-8-1", "text": "I want to be a teacher in the future.", "meaning": "わたしは将来、先生になりたいです。" },
+        { "id": "6-8-2", "text": "I want to join the brass band in junior high.", "meaning": "わたしは中学校で吹奏楽部に入りたいです。" },
+        { "id": "6-8-3", "text": "What is your dream?", "meaning": "あなたの夢は何ですか。" },
+        { "id": "6-8-4", "text": "I will study hard for my dream.", "meaning": "わたしは夢のために一生けんめい勉強します。" }
+      ]
+    }
+  ]
+}
